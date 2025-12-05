@@ -214,7 +214,7 @@
   "CreateGameView.ScoringModeSection.description.guest": "Wanneer je meedoet aan de score van een spel dat door een andere speler is gestart, hoef je alleen maar de kaarten in je eigen bos te selecteren. Je selectie kan vervolgens worden gedeeld met de spelleider.",
   "CreateGameView.ScoringModeSection.description.host": "Wanneer je een nieuw spel speelt, kun je ofwel de kaarten voor alle spelers selecteren, ofwel hen later laten toetreden om hun eigen bos op hun eigen telefoon toe te voegen.",
   "CreateGameView.ScoringModeSection.header.guest": "Deelnemen aan score",
-  "CreateGameView.ScoringModeSection.header.host": "Scor een nieuw spel",
+  "CreateGameView.ScoringModeSection.header.host": "Scoor een nieuw spel",
   "DwellerPositions.Bottom": "Beneden",
   "DwellerPositions.Left": "Links",
   "DwellerPositions.Right": "Rechts",
